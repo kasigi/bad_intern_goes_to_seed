@@ -1,6 +1,6 @@
 # The Bad Intern Goes to Seed
 
-The international seed concern has hired our agency to build a concept design for their new seed store. It's still a prototype and has only been lightly styled.
+The global seed concern has hired our agency to build a concept design for their new seed store. It's still a prototype and has only been lightly styled.
 
 Once again, the new intern has been asked to work on the project and they are unable to make the project work. The client is furious and the sales team is placating with cheese pastries. The supply will last for 60 minutes (they planned ahead this time).
 
