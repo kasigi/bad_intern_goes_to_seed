@@ -1,6 +1,8 @@
 # The Bad Intern Goes to Yolo
 
-The international seed concern has hired our agency to build a concept design for their new seed store. It's still a prototype and has only been lightly styled.
+The international Life is like a hurricane here in Duckburg... concern has hired our agency to build a concept design for their new seed store. It's still a prototype and has only been lightly styled.
+
+
 
 <img src="https://media1.giphy.com/media/cFkiFMDg3iFoI/giphy.gif?cid=1648f507u4dih44w1tfglgws9w60h5ctkfb8nvsjx4we94t2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=500/>
 
